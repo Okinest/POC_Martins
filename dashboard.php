@@ -11,7 +11,7 @@
     <table>
         <thead>
             <tr>
-                <th>Identifiants</th>
+                <th>Identifiants(Utilisateur)</th>
                 <th>Titre</th>
                 <th>Contenu</th>
                 <th>Interests</th>
