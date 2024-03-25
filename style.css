@@ -3,3 +3,17 @@
     color: red;
     font-weight: bold;
 }
+table,thead, tr, th, td
+{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+table
+{
+    width: 100%;
+}
+td
+{
+    padding: 1rem;
+    text-align: center;
+}
