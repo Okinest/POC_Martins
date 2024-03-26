@@ -18,7 +18,7 @@
         <select name="newsletter_id">
             <?php foreach ($db as $newsletter){ ?>
                 <option value="<?= $newsletter['id'] ?>"><?= $newsletter['title'] ?></option>
-            <?php} ?>
+            <?php } ?>
         </select>
         <input type="submit" value="Envoyer Newsletter">
     </form>
